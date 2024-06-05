@@ -1,5 +1,7 @@
 ## Добро пожаловать на мой Github
-<a href="[URL](https://anglofan.ru/)" >Мои проеккы: Школа английского языка: https://anglofan.ru/</a>
+<p align="left">Мои проеккы:</p>
+<a href="[URL](https://anglofan.ru/)" > Школа английского языка: https://anglofan.ru/</a>
+<a href="[URL](https://nurillosalon.ru/))" > Cалон красоты: https://nurillosalon.ru/</a>
 <h3 align="left">Мои навыки</h3>
 <p align="left">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
