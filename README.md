@@ -1,8 +1,11 @@
 ## Добро пожаловать на мой Github
-<p align="left">Мои проеккы:</p>
-<a href="https://anglofan.ru/" target="_blank" rel="noreferrer"> Школа английского языка: https://anglofan.ru/</a>
-<br>
-<a href="https://nurillosalon.ru/" target="_blank" rel="noreferrer">  Cалон красоты: https://nurillosalon.ru/</a>
+<p align="left">Мои проеккы:
+	<a href="https://sokres.github.io/react_task/" target="_blank" rel="noreferrer"> Простая тудушка</a>
+	<br>
+	<a href="https://anglofan.ru/" target="_blank" rel="noreferrer"> Школа английского языка</a>
+	<br>
+	<a href="https://nurillosalon.ru/" target="_blank" rel="noreferrer">  Cалон красоты/</a>
+</p>
 <h3 align="left">Мои навыки</h3>
 <p align="left">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
