@@ -1,7 +1,8 @@
 ## Добро пожаловать на мой Github
 <p align="left">Мои проеккы:
-	<a href="https://sokres.github.io/react_task/" target="_blank" rel="noreferrer"> Магагзин</a>
 	<br>
+	<a href="https://sokres.github.io/react_task/" target="_blank" rel="noreferrer"> Магагзин</a>
+	
 	<br>
 	<a href="https://sokres.github.io/react_task/" target="_blank" rel="noreferrer"> Простая тудушка</a>
 	<br>
