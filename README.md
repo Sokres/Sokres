@@ -1,5 +1,8 @@
 ## Добро пожаловать на мой Github
 <p align="left">Мои проеккы:
+	
+	<br>
+	<a href="https://weather.sokres.ru/" target="_blank" rel="noreferrer"> Сайт погоды</a>
 	<br>
 	<a href="https://sokres.github.io/react_task/" target="_blank" rel="noreferrer"> Магагзин</a>
 	<br>
