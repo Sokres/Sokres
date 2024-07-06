@@ -1,6 +1,5 @@
 ## Добро пожаловать на мой Github
-<p align="left">Мои проеккы:
-	
+<p align="left">Мои проеккы:	
 	<br>
 	<a href="https://weather.sokres.ru/" target="_blank" rel="noreferrer"> Сайт погоды</a>
 	<br>
